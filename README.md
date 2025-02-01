@@ -61,3 +61,31 @@ This project is licensed under the MIT License.
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Express](https://expressjs.com/)
+
+
+## Website Previews
+
+
+![Screenshot 1](frontend/public/Screenshot%202025-02-01%20105851.png)
+*Preview of the user authentication screen.*
+
+
+![Screenshot 2](frontend/public/Screenshot%202025-02-01%20105905.png)
+*Preview of the user authentication screen.*
+
+![Screenshot 3](frontend/public/Screenshot%202025-02-01%20105932.png)
+
+*Preview of the chat interface with active conversations.*
+
+![Screenshot 4](frontend/public/Screenshot%202025-02-01%20105949.png)
+*Preview of the user conversations screen.*
+
+![Screenshot 5](frontend/public/Screenshot%202025-02-01%20110005.png)
+*Preview of the settings page.*
+
+![Screenshot 6](frontend/public/Screenshot%202025-02-01%20110035.png)
+*Preview of the user profile page.*
+
+![Screenshot 7](frontend/public/Screenshot%202025-02-01%20110117.png)
+*Preview of the video calling interface.*
+
