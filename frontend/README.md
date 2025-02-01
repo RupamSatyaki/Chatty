@@ -1,8 +1,28 @@
-# React + Vite
+# Chatty Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+The frontend of Chatty is built using React and Vite, providing a responsive and modern user interface for the chat application.
 
-Currently, two official plugins are available:
+## Features
+- User authentication (login and registration)
+- Real-time messaging
+- Story sharing
+- Video calling interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To install the frontend dependencies, run the following command in the project root:
+```bash
+npm install
+```
+
+## Usage
+To start the frontend development server, use the following command:
+```bash
+npm run dev
+```
+
+Visit `http://localhost:3000` in your browser to access the frontend application.
+
+## Acknowledgments
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
